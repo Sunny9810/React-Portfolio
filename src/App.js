@@ -12,4 +12,25 @@ import Footer from './components/Footer';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import "./style/App.css";
 
+// Define the App component
+function App() {
+  return (
+    <div className="App">
+      <Router>
+      <Header/><div className="container mt-5"><Routes>
+            <Route path= "/React-Portfolio" element={<About />} />
+            <Route path="/React-Portfolio/about" element={<About />} />   
+            <Route path="/React-Portfolio/portfolio" elements={<Portfolio />} />
+            <Route path="/React-Portfolio/contact" element={<Contact />} />
+            <Route path="/ React-Portfolio/resume" element={<Resume />} />
+          </Routes>
+        </div>
+        <Footer />
+      </Router>
+    </div>
+  );
+}     
+
+
+
 export default App;
