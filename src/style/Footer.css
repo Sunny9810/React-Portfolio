@@ -11,6 +11,31 @@
       padding-bottom: 0; /* Remove padding-bottom from the social-icons-wrapper */
     }
       
-
+    .footer-icon-size {
+        font-size: 28px;
+      }
+    
+    
+    .footer-icon-size {
+      margin-top: 4.6px;;
+    }
+    
+    .form-footer {
+      display: inline-block;
+      vertical-align: middle;
+      margin-bottom: 0;
+      padding: 10px;
+    }
+    
+    .designer-text,
+    .copyright-text, 
+    .footer-container,
+    .footer {
+        align-content: center;
+        border: 0px;
+        margin: 0px;
+        padding: 0px;
+    }
+  
   
  
