@@ -4,6 +4,7 @@ import CodingAssessment from "../images/Coding Asseessment.gif";
 import NoteTaker from "../images/11-express-homework-demo-02.png";
 import WeatherDashboard from "../images/Final_look.png";
 import WorkDayPlanner from  "../images/Untitled_ Apr 30, 2023 9_16 PM.gif";
+import '../style/Portfolio.css';
 
 // Portfolio component
 function Portfolio() {
