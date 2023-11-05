@@ -134,5 +134,11 @@ function Contact() {
             </Form>
           </Col>
         </Row>
+        </Container>
+    </section>
+  );
+}
+// Export Contact
+export default Contact;
 
 

@@ -4,7 +4,7 @@ import avatar from "../images/main-img.png.jpg";
 import "../style/About.css";
 
 function About(){
-    return
+    return (
     //About section starts here
     <section id="about" className="py-5">
       <h1 className="about-heading">About Me</h1>
@@ -32,6 +32,7 @@ function About(){
         </Row>
       </Container>
     </section>
+    )
 }
 
 // Export About

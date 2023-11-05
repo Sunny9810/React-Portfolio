@@ -16,7 +16,7 @@ const Navigation = () => {
             <Nav.Link as={Link} to="/React-Portfolio/about"  className="fs-5 nav-link-highlight shadow-lg">About Me</Nav.Link>
             <Nav.Link as={Link} to="/React-Portfolio/portfolio" className="fs-5 nav-link-highlight shadow-lg ">Portfolio</Nav.Link>
             <Nav.Link as={Link} to="/React-Portfolio/contact" className="fs-5 nav-link-highlight shadow-lg ">Contact</Nav.Link>
-            <Nav.Link as={Link} to="/React-Portfolio/resume"  className="fs-5 nav-link-highlight shadow-lg ">Resume</Nav.Link>
+            
             </Nav>
             </Navbar.Collapse>
       </Container>
