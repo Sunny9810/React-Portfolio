@@ -24,7 +24,7 @@ function About(){
                 About Arevik Abrahamyan
                 </Card.Title>
                 <Card.Text>
-         Arevik Abrahamyan a girl from foreign contry moved to States to make her dreams come true and for better future.Coming from an economist background  I never thought I will learn coding and coding will help me to dream big and work harder. I am flued by  curiosity and genuie desire to do more I commited myself to mastering coding in Full-Stack Developer Coding Bootcamp regardless of the chanalges I faced.        
+                Arevik Abrahamyan, a girl from a foreign country, moved to the United States to make her dreams come true and for a better future. Coming from an economist background, I never thought I would learn coding, and coding would help me to dream big and work harder. Fueled by curiosity and a genuine desire to do more, I committed myself to mastering coding in a Full-Stack Developer Coding Bootcamp, regardless of the challenges I face.      
          </Card.Text>
               </Card.Body>
             </Card>
