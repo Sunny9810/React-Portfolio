@@ -1,0 +1,16 @@
+/* FOOTER SECTION */
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+    .social-icons-wrapper {
+      margin-top: 1rem; /* Add margin-top to the social-icons-wrapper */
+      padding-bottom: 0; /* Remove padding-bottom from the social-icons-wrapper */
+    }
+      
+
+  
+ 
